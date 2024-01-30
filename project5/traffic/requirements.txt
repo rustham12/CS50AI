@@ -1,0 +1,7 @@
+opencv-python
+scikit-learn
+<<<<<<< HEAD
+tensorflow
+=======
+tensorflow
+>>>>>>> a38ea2471396c3d661736eaee881380940c366f5
